@@ -1,5 +1,0 @@
-установить git для консоли
-git clone "https://github.com/SEDNEY228006/HelloWorld-print-.git" - скопировать проект себе на компьютер
-git add 'filename' - добавить файл для коммита
-git commit -m "Описание изменений для людей" - добавить коммит
-git push origin main - загрузить все коммиты на гитхаб
